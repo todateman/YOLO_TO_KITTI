@@ -15,7 +15,7 @@ CLASS_MAPPING = {
 # デフォルト値
 TRUNCATED = 0
 OCCLUDED = 0
-ALPHA = -1
+ALPHA = 0
 # 3D情報やその他のフィールドは空白またはデフォルト値に設定
 HEIGHT = 0
 WIDTH = 0
